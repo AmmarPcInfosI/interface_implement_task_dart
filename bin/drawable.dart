@@ -1,5 +1,3 @@
- class Drawable{
-  void draw(){
-
-  }
+ abstract class Drawable{
+   void draw();
 }
